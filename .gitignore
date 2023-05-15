@@ -5,5 +5,4 @@ __MACOSX
 *.sublime-workspace
 
 *.json
-*.csv
 .env
