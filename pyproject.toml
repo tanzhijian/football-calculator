@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "football-calculator"
+version = "0.1.0"
+description = ""
+authors = ["tanzhijian <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "football-calculator"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.24.3"
+pandas = "^2.0.2"
+pytest = "^7.3.1"
+scikit-learn = "^1.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

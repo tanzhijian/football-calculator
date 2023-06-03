@@ -1,1 +1,1 @@
-# football_calculator
+# football-calculator
